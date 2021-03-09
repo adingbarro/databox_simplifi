@@ -1,0 +1,18 @@
+{
+  "name": "databox-simplifi-connection",
+  "version": "1.0.0",
+  "description": "Create a databox connection from simplifi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "databox": "^2.0.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
